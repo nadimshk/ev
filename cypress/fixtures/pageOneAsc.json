@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "brand": "Zebronics",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/n/y/nyfboat000113_1_cc965b26.jpg?rnd=20200526195200",
+      "price": 100,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Laptop"
+    },
+    {
+      "id": 4,
+      "brand": "Zebronics",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/6/1/619660798426_1_727221ba.jpg?rnd=20200526195200",
+      "price": 100,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Speakers"
+    },
+    {
+      "id": 8,
+      "brand": "Apple",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/n/y/nyfblta000009_1.jpg?rnd=20200526195200",
+      "price": 100,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Head_Phones"
+    },
+    {
+      "id": 12,
+      "brand": "HP",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/b/o/boult-audio-ba-nk-freepods-black_1_17c2dc71.jpg?rnd=20200526195200",
+      "price": 100,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Mobile"
+    },
+    {
+      "id": 2,
+      "brand": "Zebronics",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/n/y/nyfblta000011_1.jpg?rnd=20200526195200",
+      "price": 120,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Mobile"
+    },
+    {
+      "id": 3,
+      "brand": "Zebronics",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/b/c/bc60a_1_c82d81cb.jpg?rnd=20200526195200",
+      "price": 130,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Head_Phones"
+    }
+  ],
+  "totalPages": 3
+}

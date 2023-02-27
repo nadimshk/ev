@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": 7,
+      "brand": "Apple",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/a/m/ambrane_8904258106557_1_aff3c266.jpg?rnd=20200526195200",
+      "price": 250,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Mobile"
+    },
+    {
+      "id": 8,
+      "brand": "Apple",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/n/y/nyfblta000009_1.jpg?rnd=20200526195200",
+      "price": 100,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Head_Phones"
+    },
+    {
+      "id": 9,
+      "brand": "Apple",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/z/b/zb_8906108615899_1_44867a4c.jpg?rnd=20200526195200",
+      "price": 325,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Speakers"
+    },
+    {
+      "id": 10,
+      "brand": "Apple",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/u/d/ud_bk_1_2f275806.jpg?rnd=20200526195200",
+      "price": 350,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Smart_TV"
+    },
+    {
+      "id": 11,
+      "brand": "HP",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/g/r/grey_1_398b5873.jpg?rnd=20200526195200",
+      "price": 375,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Laptop"
+    },
+    {
+      "id": 12,
+      "brand": "HP",
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/b/o/boult-audio-ba-nk-freepods-black_1_17c2dc71.jpg?rnd=20200526195200",
+      "price": 100,
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+      "category": "Mobile"
+    }
+  ],
+  "totalPages": 3
+}
